@@ -1,4 +1,12 @@
 {
+  "packageManager": "npm@10.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
+{
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
